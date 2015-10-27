@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: FG3Engine\lwjgl.jar FG3Engine\lwjgl_util.jar FG3Engine\jinput.jar FG3Engine\FG3Engine.jar
+Sealed: true
+Main-Class: GameRunner
+
